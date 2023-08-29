@@ -2,15 +2,15 @@
 
 ![Nginx Logo](https://nginx.org/nginx.png)
 
-This project serves as a practical guide to understanding, configuring, and utilizing NGINX—a versatile web server, reverse proxy, and load balancer.
+
+## Project Overview
+
+This project is a practical guide to NGINX, the high-performance web server, reverse proxy, and load balancer. Through practical example and hands-on scenario.
 
 ## Introduction
 
 NGINX plays a pivotal role in modern web infrastructure by efficiently handling static content, optimizing application delivery, and improving traffic distribution.
 
-## Features
-
-Discover a range of features showcased within this repository:
 
 - **Basic NGINX Server Setup**: Begin by installing NGINX on your system and setting up a foundational server configuration. This forms the cornerstone for understanding NGINX's core components.
 
@@ -21,7 +21,7 @@ Discover a range of features showcased within this repository:
 
 - **Example Virtual Host Configurations**: Understand the intricacies of setting up virtual hosts in NGINX to host multiple websites on a single server. This is particularly valuable for web hosting environments.
 
-## Installation
+## Installation and basic commands
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
 
